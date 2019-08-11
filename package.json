@@ -1,0 +1,18 @@
+{
+  "name": "wl-testing",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bone",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "node-fetch": "^2.6.0",
+    "pastebin-js": "^1.0.2",
+    "superagent": "^5.1.0"
+  }
+}
